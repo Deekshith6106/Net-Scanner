@@ -1,7 +1,9 @@
 NetScan — Network Security Port Scanner
 A beginner-friendly, fully-working TCP port scanner with both a command-line interface and a clean, cybersecurity-themed web UI built with Python and Flask. Built as a learning project to demonstrate core networking and security-tooling concepts: sockets, TCP connect scanning, input validation, threading, and safe error handling.
+LIVE DEMO LINK
+https://net-scanner.onrender.com
 
-⚠️ Authorized Use Only
+⚠️ **Authorized Use Only**
 This tool must only be used against systems you own, or systems for which you have received explicit, written authorization to test. Scanning networks or hosts without permission may violate laws such as the U.S. Computer Fraud and Abuse Act, the UK Computer Misuse Act, or equivalent legislation in your country — even a simple "is this port open" check can be considered unauthorized access. Use responsibly, and only on infrastructure you control (e.g. your own machine, a local VM, or a host like scanme.nmap.org that explicitly permits scanning).
 
 1. Project Objective
